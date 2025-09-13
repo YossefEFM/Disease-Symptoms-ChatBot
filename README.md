@@ -36,8 +36,8 @@ It uses **Natural Language Processing (NLP)** and **Machine Learning** models to
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/disease-symptoms-chatbot.git
-cd disease-symptoms-chatbot
+git clone https://github.com/YossefEFM/Disease-Symptoms-ChatBot.git
+cd Disease-Symptoms-ChatBot
 ```
 
 ### 2️⃣ Install Requirements
