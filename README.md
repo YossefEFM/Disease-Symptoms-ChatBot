@@ -60,7 +60,12 @@ disease-symptoms-chatbot/
 ```
 ### 📸 Screenshots
 
-(Add screenshots of your chatbot interface or outputs here)
+### Example Conversation  
+![Chatbot Conversation](assets/Screen1.png)  
+
+### Model Predictions  
+![Prediction Example](assets/Screen2.png)  
+
 
 ### 📌 Future Work
 
