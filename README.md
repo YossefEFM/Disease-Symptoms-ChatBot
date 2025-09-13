@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Chatbot
 The chatbot is implemented inside the last cell of the Notebook:
 ```bash
-jupyter notebook chatbot.ipynb
+jupyter notebook disease-symptoms-chatbot.ipynb
 ```
 
 ### 📂 Repository Structure
@@ -82,11 +82,6 @@ Feel free to open issues or submit pull requests to improve this project.
 Yossef Essam
 ```
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/yossefessam1408/)
 
-🔗 Kaggle
-
-```bash
-git clone https://github.com/YossefEFM/Disease-Symptoms-ChatBot.git
-cd Disease-Symptoms-ChatBot
-```
+🔗 [Kaggle](https://www.kaggle.com/yossefessam1269)
