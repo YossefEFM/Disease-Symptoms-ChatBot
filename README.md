@@ -87,6 +87,6 @@ Yossef Essam
 🔗 Kaggle
 
 ```bash
-git clone https://github.com/YossefEFM/disease-symptoms-chatbot.git
-cd disease-symptoms-chatbot
+git clone https://github.com/YossefEFM/Disease-Symptoms-ChatBot.git
+cd Disease-Symptoms-ChatBot
 ```
