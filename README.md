@@ -73,16 +73,20 @@ Deploy on cloud (Streamlit / HuggingFace Spaces / Heroku).
 Integrate with a medical knowledge base.
 
 ### 🙌 Contributing
-
+```
 Contributions are welcome!
 Feel free to open issues or submit pull requests to improve this project.
-
+```
 🧑‍💻 Author
-
+```bash
 Yossef Essam
+```
 
 🔗 LinkedIn
 
 🔗 Kaggle
-git clone https://github.com/YOUR_USERNAME/disease-symptoms-chatbot.git
+
+```bash
+git clone https://github.com/YossefEFM/disease-symptoms-chatbot.git
 cd disease-symptoms-chatbot
+```
